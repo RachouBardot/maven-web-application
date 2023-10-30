@@ -5,13 +5,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>LandmarkTechnologies- Home Page</title>
-<link href="images/mylandmarklogo.png" rel="icon">
+<link href="images/abak consulting.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Abak consuulting.</h1>
+<h1 align="center">Welcome to Abak consulting.</h1>
 <h1 align="center">We are helping people with their immigration project . 
-We help them file for the case and helps them als to settle in Canada
+We help them file for the case and help them also to settle in Canada
 	 </h1>
 <hr>
 <br>
@@ -31,7 +31,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mylandmarklogo.png" alt="" width="150">
+		<img src="images/abak consulting.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
                 Rachel, 
@@ -39,7 +39,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+1 289 887 6265,
 		rachellefuti@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:rachellefuti@gmail.com">Mail to abak consulting</a>
 	</span>
 </div>
 <hr>
